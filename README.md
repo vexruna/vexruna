@@ -1,2 +1,1 @@
-"Cursed Code" Developer. Hi.
-I make videogames, you probably haven't heard of them.
+# 仕方がない
